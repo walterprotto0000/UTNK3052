@@ -1,3 +1,4 @@
 #include <stdio.h>
-main(){
+main(void){
+printf("Perro lindo");
 }
